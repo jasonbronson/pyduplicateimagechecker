@@ -66,7 +66,4 @@ for filename in glob.iglob('/backup/Pictures/**/*', recursive=True):
 db.close()
 
 
-# pip install mysqlclient
-# sudo add-apt-repository ppa:deadsnakes/ppa
-# sudo apt-get update
-# sudo apt-get install python3.6
+
